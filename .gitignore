@@ -1,4 +1,6 @@
-# Ignore Python virtual environment
+# .gitignore
 .venv/
 __pycache__/
 *.pyc
+*.pyd
+*.dll
